@@ -1,4 +1,5 @@
 # GD-6-musiienko-overthink
+Посилання на відео на гугл диску - https://drive.google.com/drive/folders/10n1n2c2npVNs0K1K-YWLGhaptXW_QZsE?usp=sharing
 # OVERTHINK
 
 OVERTHINK - атмосферна психологічна indie-гра, створена в Unity у жанрі one-button game.
